@@ -30,14 +30,6 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=MaRuF-Code&show_icons=true&hide_border=true" />
-
-</details>
-
-
 [twitter]: https://twitter.com/MaRuF00011423
 [instagram]: https://www.instagram.com/bangabashimaruf/?hl=en
 
