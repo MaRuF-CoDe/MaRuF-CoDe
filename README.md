@@ -1,6 +1,6 @@
 ### Hi there, I'm Maruf - aka [MaRuF-CoDe] 👋 
 
-## I'm a  Developer, and Student!!
+## I'm a Web-Developer!!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
